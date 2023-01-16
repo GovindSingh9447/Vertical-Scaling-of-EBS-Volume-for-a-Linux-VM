@@ -107,7 +107,8 @@
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m19.png"></img>
   <br>
-  <li>	Click on Create volume.</li>
+  <li>	Enter the below command to view the EBS volumes created:</li>
+  `lsblk`
   <br>
-  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m16.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m20.png"></img>
   <br>

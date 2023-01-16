@@ -35,4 +35,4 @@
   <br>
   <li>Select an Amazon Linux VM.</li>
   <br>
-  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m2.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m3.png"></img>

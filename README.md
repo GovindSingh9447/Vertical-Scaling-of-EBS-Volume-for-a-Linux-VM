@@ -30,6 +30,9 @@
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m1.png"></img>
   <br>
   <li> 1.2 Enter a name for the Instance. </li> 
-
+  <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m2.png"></img>
-  
+  <br>
+  <li>Select an Amazon Linux VM.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m2.png"></img>

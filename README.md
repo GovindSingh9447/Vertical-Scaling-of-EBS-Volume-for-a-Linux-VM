@@ -55,7 +55,7 @@
 
   <li>	Navigate to the Elastic Block Store and click on Volumes.</li>
   <br>
-  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m8.png"></img>
+  <img  width="50%" height="50%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m8.png"></img>
   <br> 
    <li>	Identify the Volume and edit the Volume name as shown in the below screenshot:</li>
   <br>

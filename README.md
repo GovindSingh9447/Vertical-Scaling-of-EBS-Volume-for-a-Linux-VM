@@ -67,7 +67,7 @@
 
   <li>	Create a snapshot by clicking on the Actions tab of Old volume.</li>
   <br>
-  <img  width="50%" height="50%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m10.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m10.png"></img>
   <br> 
    <li>	Enter a description and click on Create snapshot.</li>
   <br>
@@ -78,3 +78,15 @@
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m12.png"></img>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m13.png"></img>
   <br> 
+  
+  ## Step 4: Creating a new volume
+
+  <li>	Create a new volume by clicking on Create volume.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m14.png"></img>
+  <br> 
+   <li>	Enter the details as shown in the below screenshot:</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m15.png"></img>
+  <br> 
+  <h1>Note: The Availability Zone should be provided as the same as the EC2 instance created.</h1>

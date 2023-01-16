@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h2>  Vertical Scaling of EBS Volume for a Linux VM </h2>
+  <h1>  Vertical Scaling of EBS Volume for a Linux VM </h1>
 
 </div>
  
@@ -23,4 +23,5 @@
  5. Detaching the existing volume from the EC2 Instance
  6. Attaching a new volume to the EC2 Instance
 
-# Step 1: Creating an EC2 Instance
+## Step 1: Creating an EC2 Instance
+

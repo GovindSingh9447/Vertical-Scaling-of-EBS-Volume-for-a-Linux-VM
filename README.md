@@ -61,6 +61,20 @@
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m9.png"></img>
   <br> 
-   <li>	Navigate to the Elastic Block Store and click on Volumes.</li>
-  <br>
+   
  
+ ## Step 3: Creating a snapshot
+
+  <li>	Create a snapshot by clicking on the Actions tab of Old volume.</li>
+  <br>
+  <img  width="50%" height="50%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m10.png"></img>
+  <br> 
+   <li>	Enter a description and click on Create snapshot.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m11.png"></img>
+  <br> 
+   <li>	The snapshot has been successfully created.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m12.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m13.png"></img>
+  <br> 

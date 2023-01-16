@@ -141,3 +141,23 @@
   <br> 
   <h2> Note: It shows as failed to start instance as there is no volume attached.</h2>
   <br>
+  
+   ## Step 6: Attaching the new volume to the EC2 Instance
+
+  <li>	Now select the New Volume and click on Attach volume under the Actions tab.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m27.png"></img>
+  <br>
+  <li>	Select the instance my-ebs-volume and click on Attach volume.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m28.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m29.png"></img>
+  <br>
+  <li> The New Volume with 30 GiB has been successfully attached.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m30.png"></img>
+  <br>
+  <li> Now, navigate to the Instance and click on Start Instance.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m26.png"></img>
+  <br>

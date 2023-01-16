@@ -5,8 +5,7 @@
 ### `Tools required:` AWS account
 ### `Prerequisites:` A running EC2 Instance
 <br>
-<br>
-
+# 
 ### Steps to be followed:
  1. Creating an EC2 Instance
  2. Identifying the EBS volume that is created

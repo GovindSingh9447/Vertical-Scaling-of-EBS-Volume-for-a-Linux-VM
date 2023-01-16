@@ -159,5 +159,6 @@
   <br>
   <li> Now, navigate to the Instance and click on Start Instance.</li>
   <br>
-  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m26.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m31.png"></img>
   <br>
+  <h1>The EC2 Instance has been successfully started after attaching the volume to it. This attachment and detachment of volumes shows the vertical scalability of the Amazon Linux VM. </h1>

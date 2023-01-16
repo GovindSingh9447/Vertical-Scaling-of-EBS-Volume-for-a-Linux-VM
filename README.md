@@ -37,8 +37,12 @@
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m3.png"></img>
   <br>
-  <li> Create a key pair if one has not been created already.</li>
+  <li> Select the instance type.</li>
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m4.png"></img>
+  <br>
+  <li> Create a key pair if one has not been created already.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m5.png"></img>
   
   

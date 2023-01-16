@@ -108,7 +108,30 @@
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m19.png"></img>
   <br>
   <li>	Enter the below command to view the EBS volumes created:</li>
-  `lsblk`
+  ```lsblk```
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m20.png"></img>
+  <br>
+  
+  ## Step 5: Detaching the existing volume from the EC2 Instance
+
+  <li>	Navigate to the instance my-ebs-volume and select Stop instance from the Instance state tab.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m21.png"></img>
+  <br> 
+   <li>	Click on Stop.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m22.png"></img>
+  <br> 
+  <li>	Select the Old volume, and under the Actions tab, click on Detach volume.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m23.png"></img>
+  <br>
+  <li>	Click on Detach.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m24.png"></img>
+  <br>
+  <li>	The Old volume has been successfully detached.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m25.png"></img>
   <br>

@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h2>  vertical scaling of EBS volume for a Linux VM </h2>
+  <h2>  Vertical Scaling of EBS Volume for a Linux VM </h2>
 
 </div>
  

@@ -44,5 +44,10 @@
   <li> Create a key pair if one has not been created already.</li>
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m5.png"></img>
+  <br>
+  <li> The EC2 Instance has been successfully launched.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m6.png"></img>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m7.png"></img>
   
   

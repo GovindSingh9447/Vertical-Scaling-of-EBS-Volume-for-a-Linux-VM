@@ -22,3 +22,5 @@
  4. Creating a new volume
  5. Detaching the existing volume from the EC2 Instance
  6. Attaching a new volume to the EC2 Instance
+
+# Step 1: Creating an EC2 Instance

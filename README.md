@@ -135,3 +135,9 @@
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m25.png"></img>
   <br>
+   <li> Now, try to connect to the Instance by clicking on the Instance state tab and starting the Instance.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m26.png"></img>
+  <br> 
+  <h2> Note: It shows as failed to start instance as there is no volume attached.</h2>
+  <br>

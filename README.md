@@ -89,4 +89,25 @@
   <br>
   <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m15.png"></img>
   <br> 
-  <h1>Note: The Availability Zone should be provided as the same as the EC2 instance created.</h1>
+  <h2>Note: The Availability Zone should be provided as the same as the EC2 instance created.</h2>
+  <br> 
+   <li>	Click on Create volume.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m16.png"></img>
+  <br>
+  <li>	Edit the name as New Volume as the volume has been successfully created.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m17.png"></img>
+  <br>
+  <li>	Connect to the AWS Linux VM by selecting the Instance and clicking on the Connect button.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m18.png"></img>
+  <br>
+  <li>	Click on Connect.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m19.png"></img>
+  <br>
+  <li>	Click on Create volume.</li>
+  <br>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m16.png"></img>
+  <br>

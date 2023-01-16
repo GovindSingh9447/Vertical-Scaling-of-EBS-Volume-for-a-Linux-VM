@@ -26,3 +26,8 @@
 ## Step 1: Creating an EC2 Instance
 
   <li> 1.1  Navigate to the AWS Management Console, search for EC2, and click on Launch Instances as shown in the below screenshots:</li>
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m1.png"></img>
+  <li> 1.2 Enter a name for the Instance. </li> 
+
+  <img  width="100%" height="100%" src="https://github.com/GovindSingh9447/DevOps/blob/main/Images/m2.png"></img>
+  
